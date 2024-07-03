@@ -2,9 +2,8 @@
 
 ![Banner](https://github.com/Kmmadu/Kmmadu/blob/main/Personal%20Branding%20Banner.png)
 
-![Profile Picture](https://your-image-url.com/profile.jpg)
 
-Hello, I'm Mmadubudwu Kingsley, a passionate developer interested in building innovative solutions. Here's a little bit about me:
+I'm Kingsley, a passionate developer interested in building innovative solutions. Here's a little bit about me:
 
 ## 🚀 About Me
 - 🔭 Currently working on [Noname Project](https://codeakstan.github.io/noname/index.html)
