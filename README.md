@@ -34,9 +34,3 @@ Hello, I'm Mmadubudwu Kingsley, a passionate developer interested in building in
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/K_mmadu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/kingsley.mmadu.75)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/k_mmadu/)
-
-## 🚀 Projects
-### Noname Project
-![Project Screenshot](https://your-image-url.com/project-screenshot.jpg)
-- **Description:** A web application designed to [brief description of what it does].
-- **Technologies used:** JavaScript, HTML, CSS, [any other technologies].
