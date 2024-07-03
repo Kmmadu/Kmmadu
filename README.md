@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Banner](https://your-image-url.com/banner.jpg)
+![Banner](https://www.canva.com/design/DAGJ7fBtfgg/hjr03m639EqaqkgFjrnohQ/edit?utm_content=DAGJ7fBtfgg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ![Profile Picture](https://your-image-url.com/profile.jpg)
 
