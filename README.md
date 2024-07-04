@@ -2,7 +2,6 @@
 
 ![Banner](https://github.com/Kmmadu/Kmmadu/blob/main/Personal%20Branding%20Banner.png)
 
-
 I'm Kingsley, a passionate developer interested in building innovative solutions. Here's a little bit about me:
 
 ## 🚀 About Me
@@ -27,6 +26,12 @@ I'm Kingsley, a passionate developer interested in building innovative solutions
 
 ## 📊 GitHub Stats
 ![Kmmadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmmadu&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kmmadu&theme=radical)
+
+## 📈 Contribution Stats
+![Kmmadu's Contribution Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmmadu&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingsley-mmadubugwu-698776268/)
