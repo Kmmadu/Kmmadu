@@ -5,7 +5,7 @@
 I'm Kingsley, a passionate developer interested in building innovative solutions. Here's a little bit about me:
 
 ## 🚀 About Me
-- 🔭 Currently working on [Noname Project](https://codeakstan.github.io/noname/index.html)
+- 🔭 Currently working on [StudyPortal](https://github.com/Kmmadu/StudyPortal/blob/main/index.html)
 - 🌱 Actively learning Software Engineering at [ALX Africa](https://www.alxafrica.com/)
 - 👯 Open to collaborating on open-source projects and innovative solutions.
 - 💬 Feel free to ask me about JavaScript, React, Node.js, and web development.
