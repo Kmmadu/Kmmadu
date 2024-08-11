@@ -4,7 +4,7 @@
 
 I'm Kingsley, a passionate developer interested in building innovative solutions. Here's a little bit about me:
 
-## 🚀 About Me
+## 🚀 About M
 - 🔭 Currently working on [StudyPortal](https://kmmadu.github.io/StudyPortal/index.html)
 - 🌱 Actively learning Software Engineering at [ALX Africa](https://www.alxafrica.com/)
 - 👯 Open to collaborating on open-source projects and innovative solutions.
