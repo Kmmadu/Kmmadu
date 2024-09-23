@@ -27,9 +27,6 @@ I'm Kingsley, a passionate developer interested in building innovative solutions
 ## 📊 GitHub Stats
 ![Kmmadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmmadu&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kmmadu&theme=radical)
-
 ## 📈 Contribution Stats
 ![Kmmadu's Contribution Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmmadu&layout=compact&theme=radical)
 
@@ -38,3 +35,4 @@ I'm Kingsley, a passionate developer interested in building innovative solutions
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/K_mmadu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/kingsley.mmadu.75)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/k_mmadu/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mmadubugwukingsley@gmail.com)
