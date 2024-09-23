@@ -27,6 +27,9 @@ I'm Kingsley, a passionate developer interested in building innovative solutions
 ## 📊 GitHub Stats
 ![Kmmadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmmadu&show_icons=true&theme=radical)
 
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kmmadu&theme=radical)
+
 ## 📈 Contribution Stats
 ![Kmmadu's Contribution Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmmadu&layout=compact&theme=radical)
 
