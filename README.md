@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/Kmmadu/Kmmadu/blob/main/Personal%20Branding%20Banner.png)
 
-I'm Kingsley, a **Certified Software Engineer** passionate about building innovative solutions. Here's a little bit about me:
+I'm Kingsley, a **Software Engineer** passionate about building innovative solutions. Here's a little bit about me:
 
 ## 🚀 About Me
 - 🔭 Currently working on [StudyPortal](https://kmmadu.github.io/StudyPortal/index.html)
