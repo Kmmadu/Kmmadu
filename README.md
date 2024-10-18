@@ -2,13 +2,14 @@
 
 ![Banner](https://github.com/Kmmadu/Kmmadu/blob/main/Personal%20Branding%20Banner.png)
 
-I'm Kingsley, a passionate developer interested in building innovative solutions. Here's a little bit about me:
+I'm Kingsley, a certified software engineer passionate about building innovative solutions. Here's a little bit about me:
 
 ## 🚀 About Me
-- 🔭 Currently working on [StudyPortal](https://kmmadu.github.io/StudyPortal/index.html)
-- 🌱 Actively learning Software Engineering at [ALX Africa](https://www.alxafrica.com/)
-- 👯 Open to collaborating on open-source projects and innovative solutions.
-- 💬 Feel free to ask me about JavaScript, React, Node.js, and web development.
+- 🔭 Currently working on [StudyPortal](https://kmmadu.github.io/StudyPortal/index.html), a platform to solve student accommodation challenges.
+- 🌱 Completed Software Engineering at [ALX Africa](https://www.alxafrica.com/).
+- 📜 **Certified Software Engineer:** [ALX Africa Certification](https://intranet.alxswe.com/certificates/TGBfShY7Lc)
+- 👯 Open to collaborating on open-source projects and innovative tech solutions.
+- 💬 Feel free to ask me about JavaScript, React, Node.js, Python, and web development.
 - 📫 Reach me at: mmadubugwukingsley@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves Anime 🌚
@@ -18,6 +19,7 @@ I'm Kingsley, a passionate developer interested in building innovative solutions
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
