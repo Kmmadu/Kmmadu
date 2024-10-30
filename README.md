@@ -55,7 +55,7 @@ I’m working on building a portfolio of data science projects to showcase my sk
 
 ## 🎓 Certifications
 - [ALX Africa Software Engineering Certification](https://intranet.alxswe.com/certificates/TGBfShY7Lc)
-- [Data Science & Analysis - HP LIFE](https://www.life-global.org/)
+- [Data Science & Analysis - HP LIFE](https://github.com/Kmmadu/Kmmadu/blob/main/certificate.png)
 
 ## 💬 Testimonials
 "Kingsley is an exceptional developer, bringing innovative solutions to the table."
