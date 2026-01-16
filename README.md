@@ -2,16 +2,15 @@
 
 ![Banner](https://github.com/Kmmadu/Kmmadu/blob/main/Personal%20Branding%20Banner.png)
 
-I'm Kingsley, a **Software Engineer** and **Aspiring Data Analyst** passionate about building innovative solutions and uncovering insights from data. Here's a little bit about me:
+Hi, **I’m Kingsley**. I build hands-on solutions in Network Engineering, Cybersecurity, and IT infrastructure. I document my work, run simulations, and create projects that solve real-world problems.:
 
 ## 🚀 About Me
-- 🔭 Currently working on [StudyPortal](https://kmmadu.github.io/StudyPortal/index.html)
-- 🌱 Recently completed a **Data Science & Analysis** course on [HP LIFE](https://www.life-global.org/) and actively learning **Machine Learning** with TensorFlow.
-- 👯 Open to collaborating on open-source projects, innovative solutions, and data-driven initiatives.
-- 💬 Feel free to ask me about JavaScript, React, Node.js, data analysis, and web development.
+- 🔭 Running network simulations, configuring NAT, BGP, VLANs, and routing labs.
+- 🌱 Exploring AI applications and cybersecurity practices alongside practical infrastructure projects
+- 👯 Collaborating on projects that bridge networking, automation, and system optimisation
+- 💬 Happy to discuss networking, AI, Python scripting, Linux, and cloud fundamentals
 - 📫 Reach me at: mmadubugwukingsley@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Loves Anime 🌚
+- ⚡ Fun fact: I build things that “just work” 🌚
 
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -35,9 +34,6 @@ I'm Kingsley, a **Software Engineer** and **Aspiring Data Analyst** passionate a
 - **Solution:** Built a platform to help students in Nigeria easily find verified accommodations.
 - **Tech Stack:** HTML, CSS, JavaScript, Node.js
 
-## 📈 Data Science Portfolio
-I’m working on building a portfolio of data science projects to showcase my skills. Stay tuned!
-
 ## 📊 GitHub Stats
 ![Kmmadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmmadu&show_icons=true&theme=radical)
 
@@ -56,6 +52,3 @@ I’m working on building a portfolio of data science projects to showcase my sk
 ## 🎓 Certifications
 - [ALX Africa Software Engineering Certification](https://intranet.alxswe.com/certificates/TGBfShY7Lc)
 - [Data Science & Analysis Certification - HP LIFE](https://github.com/Kmmadu/Kmmadu/blob/main/certificate.png)
-
-## 💬 Testimonials
-"Kingsley is an exceptional developer, bringing innovative solutions to the table."
