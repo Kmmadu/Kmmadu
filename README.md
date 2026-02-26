@@ -1,7 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Banner](<img width="600" height="200" alt="NETWORKSoftware engineer" src="https://github.com/user-attachments/assets/fc633749-182c-4921-b3da-89e4f8f7e286" />
-)
+![Banner](<img width="600" height="200" alt="NETWORKSoftware engineer" src="https://github.com/user-attachments/assets/fc633749-182c-4921-b3da-89e4f8f7e286" />)
 
 Hi, **I’m Kingsley**. I build hands-on solutions in Network Engineering, Cybersecurity, and IT infrastructure. I document my work, run simulations, and create projects that solve real-world problems.:
 
