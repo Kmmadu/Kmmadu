@@ -43,7 +43,14 @@ I build and document real-world networking solutions, focusing on **network oper
 ### 🔍 Network Monitoring Tool *(In Progress)*
 - Built a Python-based monitoring system to track device availability and latency
 - Designed to simulate real-world NOC monitoring workflows
-- Future improvements: alerting system, packet loss tracking, smarter health checks
+- Planned improvements: alerting system, packet loss tracking, smarter health checks
+
+---
+
+### 🌐 U-ITE Platform
+- Built a platform focused on solving real user problems through simple and accessible technology
+- Designed with usability and real-world application in mind
+- Demonstrates ability to take a product from idea → implementation
 
 ---
 
@@ -65,15 +72,19 @@ I build and document real-world networking solutions, focusing on **network oper
 
 ## 📊 GitHub Stats
 
-![Kmmadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmmadu&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kmmadu&show_icons=true&theme=radical&cache_seconds=86400)
+
+---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kmmadu&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kmmadu&theme=radical&cache_seconds=86400)
+
+---
 
 ## 📈 Top Languages
 
-![Kmmadu's Contribution Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmmadu&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmmadu&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
