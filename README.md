@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/Kmmadu/Kmmadu/blob/main/Personal%20Branding%20Banner.png)
 
-Hi, I’m **Kingsley** — a Network & Infrastructure Engineer in the making.
+Hi, I’m **Kingsley**, a Network & Infrastructure Engineer in the making.
 
 I build and document real-world networking solutions, focusing on **network operations, monitoring, and automation**. My goal is simple: design systems that are reliable, observable, and scalable.
 
@@ -14,7 +14,7 @@ I build and document real-world networking solutions, focusing on **network oper
 - 🌐 Strong focus on **Network Engineering (Routing, Switching, Troubleshooting)**
 - 📡 Building **monitoring and alerting systems** using Python
 - 🧠 Exploring **Network Automation, Linux systems, and Infrastructure reliability**
-- 🔍 Interested in how large-scale networks are designed, monitored, and optimized
+- 🔍 Interested in how large-scale networks are designed, monitored, and optimised
 - 📫 Reach me at: **mmadubugwukingsley@gmail.com**
 
 ---
@@ -106,4 +106,4 @@ I build and document real-world networking solutions, focusing on **network oper
 
 > Build. Break. Fix. Document. Repeat.
 
-I don’t just learn networking — I **practice it, test it, and document it**.
+I don’t just learn networking, I **practice it, test it, and document it**.
